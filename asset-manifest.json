@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactRandomQuote/static/css/main.bd55359e.css",
+    "main.js": "/ReactRandomQuote/static/js/main.c223539d.js",
+    "static/media/tło.jpg": "/ReactRandomQuote/static/media/tło.ecee19c44b09034048d4.jpg",
+    "index.html": "/ReactRandomQuote/index.html",
+    "main.bd55359e.css.map": "/ReactRandomQuote/static/css/main.bd55359e.css.map",
+    "main.c223539d.js.map": "/ReactRandomQuote/static/js/main.c223539d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd55359e.css",
+    "static/js/main.c223539d.js"
+  ]
+}
